@@ -1,0 +1,26 @@
+{
+  "name": "pubtool",
+  "version": "1.0.0",
+  "description": "Publish a group of related packages as one coordinated release",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonypujals/pubtool.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "publish",
+    "version",
+    "release"
+  ],
+  "author": "Tony Pujals <tpujals@equinix.com> (http://nexus.corp.equinix.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonypujals/pubtool/issues"
+  },
+  "homepage": "https://github.com/tonypujals/pubtool"
+}

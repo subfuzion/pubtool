@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
+  "bin": "./bin/pubtool",
   "repository": {
     "type": "git",
     "url": "https://github.com/tonypujals/pubtool.git"
@@ -22,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/tonypujals/pubtool/issues"
   },
-  "homepage": "https://github.com/tonypujals/pubtool"
+  "homepage": "https://github.com/tonypujals/pubtool",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "nodegit": "^0.2.7"
+  }
 }

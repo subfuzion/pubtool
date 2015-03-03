@@ -25,9 +25,12 @@
   },
   "homepage": "https://github.com/tonypujals/pubtool",
   "devDependencies": {
+    "fs-extra": "^0.16.3",
     "mocha": "^2.1.0"
   },
   "dependencies": {
+    "async": "^0.9.0",
+    "js-yaml": "^3.2.7",
     "nodegit": "^0.2.7"
   }
 }
